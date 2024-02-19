@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #877676;
+}
+
+p.main {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.5em;
+  position: relative;
+  text-align: center;
+  top: 50%;
+}
